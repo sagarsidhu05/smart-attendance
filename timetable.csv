@@ -1,0 +1,23 @@
+Day,Time,Subject,Faculty,Class
+Monday,10:30-11:30,Fundamentals of Mangement,Ms.Taranjot Kaur,AC-316
+Monday,11:30-12:30,INformation Security,Ms.Parveen ,AC-316
+Monday,01:30-02:30,Compiler Design,Dr.Ridhi,AC-316
+Monday,02:30-04:30,Project,Mr.Sanjeev Dhiman,AC-14
+Tuesday,09:30-10:30,Data Analytics,Ms. Shikha,AC-316
+Tuesday,10:30-11:30,Information Security,Ms. Parveen,AC-316
+Tuesday,12:30-01:30,Fundamentals Of Management,Ms.Taranjot Kaur,AC-316
+Tuesday,02:30-03:30,Compiler Design,Dr.Ridhi,AC-316
+Tuesday,03:30-04:30,Natural Language Processing,Ms. Shikha,AC-316
+Wednesday,09:30-11:30,Natural Language Processing Lab,Ms. Shikha,AC-302
+Wednesday,11:30-12:30,Compiler Design,Dr.Ridhi,AC-316
+Wednesday,12:30-01:30,Fundamentals of Management,Ms.Taranjot Kaur,AC-316
+Wednesday,02:30-03:30,Information Security,Ms. Parveen,AC-316
+Wednesday,03:30-04:30,Natural Language Processing ,Ms. Shikha,AC-316
+Thursday,09:30-10:30,Data Analytics,Ms. Shikha,AC-316
+Thursday,11:30-01:30,Natural Language Processing Lab,Ms. Shikha,AC-302
+Friday,10:30-11:30,Fundamentals of Mangement,Ms.Taranjot Kaur,AC-316
+Friday,11:30-01:30,Information Security Lab,Dr.Rahul Hans,AC-02
+Friday,02:30-03:30,Natural Language Processing,Ms. Shikha,AC-316
+Saturday,10:30-11:30,Data Analytics,Ms. Shikha,AC-316
+Saturday,12:30-01:30,Compiler Design,Dr.Ridhi,AC-316
+Saturday,02:30-04:30,Project,Mr.Sanjeev Dhiman,AC-14

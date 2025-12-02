@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+deepface
+tf-keras
+faiss-cpu
+pandas
+streamlit-option-menu
